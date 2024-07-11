@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		707753702C404C9100A29EC3 /* LoadingCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7077536F2C404C9100A29EC3 /* LoadingCell.xib */; };
 		70D074AD2C37702F0056F24A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70D074AC2C37702F0056F24A /* AppDelegate.swift */; };
 		70D074AF2C37702F0056F24A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70D074AE2C37702F0056F24A /* SceneDelegate.swift */; };
 		70D074B12C37702F0056F24A /* SuperTunesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70D074B02C37702F0056F24A /* SuperTunesViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7077536F2C404C9100A29EC3 /* LoadingCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LoadingCell.xib; sourceTree = "<group>"; };
 		70D074A92C37702F0056F24A /* SuperTunes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SuperTunes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		70D074AC2C37702F0056F24A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		70D074AE2C37702F0056F24A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				70D074C02C3778A70056F24A /* SuperTunes.swift */,
 				70D074C22C377CFD0056F24A /* SuperTunesCell.xib */,
 				70D074C42C3782F30056F24A /* SuperTunesCell.swift */,
+				7077536F2C404C9100A29EC3 /* LoadingCell.xib */,
 			);
 			path = SuperTunes;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 				70D074B62C3770310056F24A /* Assets.xcassets in Resources */,
 				70D074C32C377CFD0056F24A /* SuperTunesCell.xib in Resources */,
 				70D074B92C3770310056F24A /* Base in Resources */,
+				707753702C404C9100A29EC3 /* LoadingCell.xib in Resources */,
 				70D074B42C37702F0056F24A /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
